@@ -1,0 +1,18 @@
+{
+  "name": "custom-itunes",
+  "version": "0.0.1-snapshot",
+  "description": "Organise music library the proper way",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "music"
+  ],
+  "author": "vijaykiran225",
+  "license": "ISC",
+  "dependencies": {
+    "music-metadata": "^6.3.6",
+    "xml2js": "^0.4.23"
+  }
+}
